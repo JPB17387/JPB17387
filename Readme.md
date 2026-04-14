@@ -1,47 +1,98 @@
-# 🌟 Hey there, I'm Jhon Paul Baonil 👋
+# 👋 Hi, I'm Jhon Paul Baonil
 
-I'm a **junior web developer** who loves mixing **creativity** and **technology** to bring ideas to life.  
-I’m not a “100% manual coder” yet — I often use AI tools like **Kiro** and **ChatGPT** to speed up my workflow — but I make sure every project I ship is clean, responsive, and functional.  
-To me, AI isn’t a shortcut, it’s a **power tool** that helps me learn faster and build smarter.
+###  Junior Web Developer | AI-Assisted Builder | Problem Solver
 
----
-
-## 🚀 Featured Projects
-🔹 [**Dumanjug-NHS**](https://github.com/JPB17387/Dumanjug-NHS) – A simple, informative school website.  
-🔹 [**My-Web-Portfolio**](https://github.com/JPB17387/My-Web-Portfolio) – My personal portfolio showcasing my work.  
-🔹 [**NextFlow**](https://github.com/JPB17387/NextFlow) – A task management web app created with a blend of AI-generated code and custom tweaks.
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhonpaulbaonil.paul.)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonpaulbaonil2/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulbaonil@gmail.com)
 
 ---
 
-## 🛠️ My Skill Set
+## 💡 About Me
+I'm a **junior web developer** focused on building **clean, functional, and responsive web applications**.
+
+I leverage AI tools like **ChatGPT** and **Kiro** as part of my workflow — not as shortcuts, but as **force multipliers** to accelerate learning, prototyping, and iteration.
+
+> I don't just generate code — I **understand, refine, and ship** it.
+
+---
+
+##  Featured Projects
+
+🔹 **Code Video Renderer: Camera Follow Setup**  
+📌 Custom text and code animation renderer using CodeVideoRenderer.  
+🔗 https://github.com/JPB17387/Camera-Follow-Animation.git
+
+🔹 **Hand-Line-Tricks-with-Mediapipe-Python**  
+📌 Dynamic real-time hand tracking visualization built with Python and MediaPipe.  
+🔗 https://github.com/JPB17387/Hand-Line-Tricks-with-Mediapipe-Python.git
+
+🔹 **Dumanjug-NHS**  
+📌 Simple and informative school website  
+🔗 https://github.com/JPB17387/Dumanjug-NHS  
+
+🔹 **My-Web-Portfolio**  
+📌 Personal portfolio showcasing my projects and skills  
+🔗 https://github.com/JPB17387/My-Web-Portfolio  
+
+🔹 **NextFlow**  
+📌 Task management web app (AI-assisted + custom logic)  
+🔗 https://github.com/JPB17387/NextFlow  
+
+---
+
+## 🛠️ Tech Stack
+
 ### 💻 Development
-- **AI-Assisted Web Development** (Kiro, ChatGPT, AI prompt engineering)
-- JavaScript (ES6+)
-- CSS3 / Responsive Design
-- Git & GitHub
+![JavaScript](https://img.shields.io/badge/-JavaScript-bd522b?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-50bd2b?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-412bbd?style=for-the-badge&logo=java)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-### 📋 Admin & Business
-- Social Media Management
-- Data Entry & Scheduling
-- Hackathon Organizing & Mentor Coordination
-- Small-Scale Farming & Product Development (Tomato Jam, Reselling)
+### 🤖 AI Workflow
+- Prompt Engineering
+- AI-Assisted Development (ChatGPT, Kiro, Antigravity, MeDo)
+- Code Review & Optimization using AI
 
 ---
 
-## 🌱 A Little About Me
-- 📚 **Lifelong Learner** – I’m constantly exploring new tools, frameworks, and tech trends.  
-- 🌿 **Gardening Hobbyist** – I grow tomatoes and other vegetables on my 200sqm farm.  
-- 🛠 **Builder Mindset** – Whether it’s a website, an event, or a product, I love bringing ideas into reality.  
-- 💡 **Problem Solver** – I don’t give up easily; challenges motivate me to think creatively.
+## 📊 What I Bring
+✔ Clean and responsive UI implementation  
+✔ Fast prototyping using AI-assisted workflows  
+✔ Strong execution mindset (I finish what I start)  
+✔ Experience organizing hackathons & managing teams  
+
+---
+
+## 🌱 Beyond Code
+- 🌿 Farming (200sqm tomato farm). But this is before I started college.
+- 📦 Exploring small businesses (Reselling & Product Development)
+- 🧠 Continuous self-learning in tech & entrepreneurship
+
+---
+
+## 🎯 Current Focus
+- Improving JavaScript fundamentals (ES6+)
+- Learning backend development
+- Building real-world freelance-ready projects
+- Preparing for remote/freelance opportunities
 
 ---
 
 ## 📫 Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jhonpaulbaonil2/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/jhonpaulbaonil.paul.)
+I'm open to:
+- Freelance opportunities
+- Collaborations
+- Entry-level developer roles
 
 ---
 
-> 💬 *"Code, create, and cultivate — in tech and in life."*  
-*Thanks for stopping by my profile!*
+## ⚡ Personal Philosophy
+> "Code. Build. Learn. Repeat."
 
+---
+
+⭐ *If you find my projects interesting, feel free to star or connect!*
