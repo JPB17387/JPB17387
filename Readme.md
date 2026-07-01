@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jhon Paul Baonil
+# Hi, I'm Jhon Paul Baonil
 
 ###  Junior Web Developer | AI-Enhanced Builder | Problem Solver
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 I'm a **junior web developer** passionate about building **clean, functional, and responsive web applications** that solve real problems.
 
@@ -23,7 +23,7 @@ I use AI (ChatGPT, GitHub Copilot, Claude) as **learning partners** and **produc
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
@@ -35,9 +35,9 @@ I use AI (ChatGPT, GitHub Copilot, Claude) as **learning partners** and **produc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Core Technologies
+###  Core Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-bd522b?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-50bd2b?style=for-the-badge&logo=python)
@@ -46,13 +46,13 @@ I use AI (ChatGPT, GitHub Copilot, Claude) as **learning partners** and **produc
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔧 Tools & Workflow
+###  Tools & Workflow
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🤖 AI Tools in My Workflow
+###   AI Tools in My Workflow
 - Prompt Engineering & Iterative Refinement
 - AI-Assisted Code Generation (ChatGPT, Copilot, Claude)
 - Code Review & Performance Optimization
@@ -60,7 +60,7 @@ I use AI (ChatGPT, GitHub Copilot, Claude) as **learning partners** and **produc
 
 ---
 
-## 📊 What I Bring
+## What I Bring
 
 ✔️ **Clean, responsive UI** — Pixel-perfect implementations  
 ✔️ **Fast iteration** — Prototype, test, ship quickly  
@@ -70,7 +70,7 @@ I use AI (ChatGPT, GitHub Copilot, Claude) as **learning partners** and **produc
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - 📖 Deepening JavaScript fundamentals (ES6+, async patterns)
 - 🔌 Learning backend development (Node.js, databases)
@@ -79,7 +79,7 @@ I use AI (ChatGPT, GitHub Copilot, Claude) as **learning partners** and **produc
 
 ---
 
-## 💼 Let's Work Together
+## Let's Work Together
 
 I'm actively looking for:
 - **Freelance projects** — UI/UX implementation, web development
@@ -89,15 +89,15 @@ I'm actively looking for:
 
 ---
 
-## 🌱 Beyond Code
+## Beyond Code
 
-- 🧠 Passionate about continuous learning in tech & entrepreneurship
-- 🤝 Experienced in team coordination & event management
-- 💡 Always exploring ways to combine coding with business thinking
+-  Passionate about continuous learning in tech & entrepreneurship
+-  Experienced in team coordination & event management
+-  Always exploring ways to combine coding with business thinking
 
 ---
 
-## ⚡ Personal Philosophy
+## Personal Philosophy
 
 > "Code. Build. Learn. Repeat."  
 > *Success is shipping, not perfecting.*
