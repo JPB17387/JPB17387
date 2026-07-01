@@ -62,20 +62,20 @@ I use AI (ChatGPT, GitHub Copilot, Claude) as **learning partners** and **produc
 
 ## What I Bring
 
-✔️ **Clean, responsive UI** — Pixel-perfect implementations  
-✔️ **Fast iteration** — Prototype, test, ship quickly  
-✔️ **Execution-focused** — I finish what I start  
-✔️ **Team player** — Experience managing hackathons & collaborating  
-✔️ **Continuous learner** — Always exploring new tech & best practices  
+- **Clean, responsive UI** — Pixel-perfect implementations  
+- **Fast iteration** — Prototype, test, ship quickly  
+- **Execution-focused** — I finish what I start  
+- **Team player** — Experience managing hackathons & collaborating  
+- **Continuous learner** — Always exploring new tech & best practices  
 
 ---
 
 ## Current Focus
 
-- 📖 Deepening JavaScript fundamentals (ES6+, async patterns)
-- 🔌 Learning backend development (Node.js, databases)
-- 🏗️ Building portfolio-ready full-stack projects
-- 💼 Preparing for freelance & entry-level dev opportunities
+-  Deepening JavaScript fundamentals (ES6+, async patterns)
+-  Learning backend development (Node.js, databases)
+-  Building portfolio-ready full-stack projects
+-  Preparing for freelance & entry-level dev opportunities
 
 ---
 
@@ -104,7 +104,7 @@ I'm actively looking for:
 
 ---
 
-## 📞 Get In Touch
+## Get In Touch
 
 **Email:** [paulbaonil@gmail.com](mailto:paulbaonil@gmail.com)  
 **Portfolio:** [My-Web-Portfolio](https://github.com/JPB17387/My-Web-Portfolio)  
@@ -112,4 +112,4 @@ I'm actively looking for:
 
 ---
 
-⭐ *If you find my projects interesting, feel free to star or reach out!*
+*If you find my projects interesting, feel free to star or reach out!*
