@@ -8,6 +8,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-paul-baonil)
 
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JPB17387&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
 ## About Me
 
