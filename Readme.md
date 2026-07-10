@@ -2,7 +2,7 @@
 
 <h2 align="center">Junior Web Developer | AI-Enhanced Builder | Problem Solver</h2>
 
----
+<br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
