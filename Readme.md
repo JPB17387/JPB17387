@@ -8,7 +8,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-paul-baonil)
 
 ---
+## My Stats Graphs
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JPB17387&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JPB17387)](https://github.com/stats-organization/github-stats-extended)
+
 ---
 
 ## About Me
@@ -49,6 +53,8 @@ I use AI (ChatGPT, GitHub Copilot, Claude) as **learning partners** and **produc
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-SQLite-FFCA28?style=for-the-badge&logo=sqlite&logoColor=gray)
 ![MySQL](https://img.shields.io/badge/-MySQL-FFCA28?style=for-the-badge&logo=mysql&logoColor=red)
+--
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JPB17387&show_icons=true&layout=donut&langs_count=6&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=JPB17387&layout=donut&langs_count=6&theme=ambient_gradient)
 
 
 ###  Tools & Workflow
