@@ -130,6 +130,11 @@ I use AI (ChatGPT, GitHub Copilot, Claude) as **learning partners** and **produc
 
 ---
 
+## My Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=JPB17387&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## Let's Work Together
 
 I'm actively looking for:
