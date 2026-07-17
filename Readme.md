@@ -51,8 +51,7 @@
 --
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JPB17387&align="center")](https://github.com/stats-organization/github-stats-extended)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpb17387&" alt="jpb17387" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JPB17387&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 ---
 
 ## About Me
