@@ -168,7 +168,7 @@ I'm actively looking for:
 ---
 
 ## Buy me a coffee
-Donate some money to support my work.  <br>Thank you! :)
+You can donate me to support my work.  <br>Thank you! :)
 <br>
 <br>
 
