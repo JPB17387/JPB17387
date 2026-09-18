@@ -16,7 +16,7 @@ I build practical software and hardware projects that combine **web development,
 
 ## About Me
 
-I'm a **Computer Technology student and junior developer** interested in building useful, well-structured technology rather than simply writing code for the sake of it.
+I'm a **Computer Technology student and junior developer** at **Cebu Technological University Dumanjug Extension Campus** and former **Computer System Servicing Student** at **Dumanjug National High School** interested in building useful, well-structured technology rather than simply writing code for the sake of it.
 
 My development journey started with web development and has expanded into **AI-assisted software development, embedded systems, hardware prototyping, automation, and full-stack experimentation**.
 
