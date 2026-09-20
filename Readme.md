@@ -369,9 +369,5 @@ If you find my projects useful or interesting, you can support my work through B
 **If you find something interesting here, feel free to explore the repositories, star a project, or reach out.**
 
 </div>
-'''
 
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path}")
-print(f"Lines: {len(readme.splitlines())}")
+
