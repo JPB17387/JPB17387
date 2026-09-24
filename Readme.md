@@ -16,26 +16,25 @@ I build practical software and hardware projects that combine **web development,
 
 ## About Me
 
-I'm a **Computer Technology student and junior developer** interested in building useful, well-structured technology rather than simply writing code for the sake of it.
+I'm a **Computer Technology student at Cebu Technological University** and a junior developer passionate about building practical, well-structured technology to solve real institutional and community problems.
 
-My development journey started with web development and has expanded into **AI-assisted software development, embedded systems, hardware prototyping, automation, and full-stack experimentation**.
+My development journey started with web development and has expanded into **AI-assisted software engineering, Retrieval-Augmented Generation (RAG) systems, local LLM hosting, embedded hardware prototyping, and automated management platforms**.
 
-I enjoy taking an idea from a rough concept to a working prototype — designing the interface, writing the software, debugging problems, documenting the process, and continuously improving the result.
+I enjoy taking ideas from rough concepts to fully working systems — designing interfaces, structuring backend logic, integrating hardware sensors or AI pipelines, and documenting the architecture along the way.
 
-I'm especially interested in projects where **software meets hardware and AI**.
+I'm especially interested in projects where **software engineering meets local AI and hardware systems**.
 
 ### My approach to AI-assisted development
 
-I use tools such as **ChatGPT, GitHub Copilot, and Claude** as development and learning partners.
+I leverage modern AI development tools — including **Cursor, Antigravity, Claude, Gemini, ChatGPT, and GitHub Copilot** — as high-speed development and learning partners.
 
 I use AI to:
 
-- Explore technical approaches and alternatives
-- Understand unfamiliar concepts
-- Accelerate repetitive development work
-- Debug and review implementations
-- Improve documentation
-- Iterate on prototypes faster
+- Explore technical architectures and alternative implementations
+- Accelerate repetitive boilerplate and full-stack development
+- Design RAG pipelines and optimize local model workflows
+- Debug hardware telemetry, firmware code, and API connections
+- Write clean documentation and iterate on functional prototypes faster
 
 > **I don't just generate code — I understand, refine, test, and ship it.**
 
@@ -43,52 +42,49 @@ I use AI to:
 
 ## What I'm Building
 
+### CTU Student Affairs Office (SAO) Management System & RAG Chatbot
+
+An on-premises, open-source automated administrative management platform and **Retrieval-Augmented Generation (RAG) AI chatbot** developed for Cebu Technological University.
+
+The platform streamlines student services and inquiry automation by deploying a local LLM knowledge assistant integrated directly into **Facebook Messenger**.
+
+**Core technologies and concepts:**
+
+- Retrieval-Augmented Generation (RAG) architecture
+- On-premises / Local LLM hosting & inference
+- Facebook Messenger API integration
+- Multi-user role & privilege management
+- Open-source administrative workflow automation
+- Full-stack web dashboard & API design
+
+---
+
 ### Smart Study AI Platform
 
-An AI-assisted study environment built around the **Arduino UNO Q and App Lab**.
+An AI-assisted study environment built around the **Arduino UNO Q and App Lab** for the Hackster.io hackathon.
 
 The project combines embedded hardware, sensors, a browser-based dashboard, and AI-oriented software components to create an intelligent study assistant.
 
 **Core technologies and concepts:**
 
-- Arduino UNO Q
-- Arduino App Lab
-- C/C++
-- Python
-- HTML/CSS/JavaScript
-- Sensor telemetry
-- WebUI dashboard
-- RPC-based communication
-- AI-assisted recommendations
-- Embedded-system prototyping
-
-The project evolved from an initial sensor/display prototype into a more complete **Arduino UNO Q + App Lab architecture**, including MCU firmware, Linux-side application logic, HTTP APIs, telemetry, session controls, and a browser dashboard.
-
-It was also developed as an entry for an **Arduino UNO Q / App Lab Hackster.io hackathon**.
+- Arduino UNO Q & App Lab
+- C/C++ firmware & Python application logic
+- Telemetry, OLED UI, & sensor integration (PIR, light, buzzer)
+- RPC communication & HTTP APIs
+- Browser dashboard & AI-assisted recommendations
 
 ---
 
 ### Nova — AI Assistant
 
-**Nova** is my ongoing AI assistant project.
-
-The goal is to build a **local-first desktop AI assistant** with a modular architecture rather than tying the application to a single AI provider.
+**Nova** is an ongoing project focused on building a **local-first desktop AI assistant** with a modular, provider-agnostic architecture.
 
 The project explores:
 
-- AI provider abstraction
-- Ollama and local-model workflows
-- Model management
-- Middleware pipelines
-- Event-driven architecture
-- Conversation management
-- Persistent conversations
-- Long-term memory and knowledge
-- Performance benchmarking
-- Voice and speech interaction
-- Desktop UI development
-
-Nova is designed as a female AI assistant and is being developed incrementally through structured development phases.
+- Local model execution (Ollama) & AI provider abstraction
+- Middleware pipelines & event-driven architecture
+- Conversation management & persistent long-term memory
+- Voice/speech interfaces & desktop application UI
 
 ---
 
@@ -96,14 +92,14 @@ Nova is designed as a female AI assistant and is being developed incrementally t
 
 | Project | Description | Technologies |
 |---|---|---|
-| **Smart Study AI Platform** | Intelligent study assistant combining Arduino UNO Q, sensors, App Lab, telemetry, dashboard software, and AI-oriented features. | Arduino UNO Q, C/C++, Python, HTML/CSS/JS, App Lab |
-| **Nova AI Assistant** | Modular desktop AI assistant exploring local AI, provider abstraction, memory, conversations, and voice interaction. | TypeScript/JavaScript, AI APIs & local models, desktop UI |
+| **CTU SAO RAG System** | On-premises administrative platform and FB Messenger RAG chatbot for Cebu Technological University. | RAG, Local LLMs, Python, JS, Facebook Messenger API, Node.js |
+| **Smart Study AI Platform** | Intelligent study assistant combining Arduino UNO Q, telemetry, WebUI dashboard, and AI recommendations. | Arduino UNO Q, C/C++, Python, HTML/CSS/JS, App Lab |
+| **Nova AI Assistant** | Modular desktop AI assistant exploring local AI, provider abstraction, memory, and voice interaction. | TypeScript/JavaScript, Ollama, Local Models, Desktop UI |
 | **NextFlow** | Task management application focused on practical productivity and responsive web UI. | HTML, CSS, JavaScript, Firebase |
 | **Hand-Line-Tricks** | Real-time hand tracking and visualization experiment. | Python, MediaPipe, OpenCV |
 | **Camera Follow Animation** | Custom canvas-based animation experiment focused on camera-follow behavior. | JavaScript, HTML5 Canvas |
 | **Dumanjug-NHS** | Responsive school information website. | HTML5, CSS3, JavaScript |
 | **My Web Portfolio** | Personal portfolio for presenting projects and development work. | React, Responsive Design |
-| **DevVelocity** | VS Code extension concept for tracking developer activity and productivity. | JavaScript/TypeScript, VS Code Extension API |
 
 ---
 
@@ -122,16 +118,16 @@ Nova is designed as a female AI assistant and is being developed incrementally t
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,java" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c,java" alt="Programming languages" />
 </p>
 
 ### Frontend & Application Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,firebase" alt="Frontend and application technologies" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,firebase" alt="Frontend and application technologies" />
 </p>
 
-### Databases
+### Databases & AI Storage
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" alt="Database technologies" />
@@ -143,62 +139,47 @@ Nova is designed as a female AI assistant and is being developed incrementally t
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded and hardware technologies" />
 </p>
 
-My hardware/software experimentation also includes **Arduino UNO Q, sensors, OLED interfaces, App Lab, KiCad, and electronics prototyping**.
+Hardware/software experimentation includes **Arduino UNO Q, PlatformIO, sensor telemetry, OLED interfaces, Processing radar visualizers, digital logic gates, and KiCad**.
 
-### Development Tools
+### Development & AI Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Development tools" />
 </p>
 
-I also use **Claude, ChatGPT, GitHub Copilot, Autodesk Fusion, KiCad, Lopaka, Arduino IDE, and related development tools** depending on the project.
+I leverage **Cursor, Antigravity, Claude, Gemini, ChatGPT, GitHub Copilot, Ollama, Autodesk Fusion, KiCad, Lopaka, and Arduino IDE** in my workflow.
 
 ---
 
 ## AI in My Workflow
 
-AI is becoming an important part of how I learn and build.
+AI and RAG architectures form a core focus of my current technical expansion.
 
 ### Areas I'm exploring
 
-- Prompt engineering
-- AI-assisted software development
-- Local LLMs
-- AI provider abstraction
-- AI-powered recommendations
-- Voice interfaces
-- Long-term AI memory
-- AI application architecture
-- Code review and debugging
-- Developer productivity tooling
-
-My goal is not to replace understanding with AI. My goal is to use AI to **increase what I can learn, build, test, and iterate on**.
+- Retrieval-Augmented Generation (RAG) & Vector Stores
+- Local LLM hosting & local-first AI architectures
+- AI agent & provider abstractions
+- Prompt engineering & custom context injection
+- Developer assistants (Cursor, Antigravity) for rapid prototyping
+- Voice interfaces & long-term memory systems for AI assistants
 
 ---
 
 ## Hardware & Embedded Development
 
-One of the biggest expansions of my development journey has been moving beyond purely web-based projects.
-
-Through my Arduino UNO Q work, I've been learning how to connect:
+Moving beyond purely web-based projects, I focus on connecting physical devices directly into full-stack and AI applications:
 
 **Sensors → Microcontroller → Communication Layer → Application Logic → Web Interface → AI Features**
 
-This has given me hands-on experience with:
+Hands-on experience includes:
 
-- GPIO and sensor integration
-- PIR motion detection
-- Light sensing
-- Buzzer control
-- OLED/UI prototyping
-- Embedded firmware
-- MCU-to-Linux communication
-- RPC interfaces
-- HTTP APIs
-- Browser dashboards
+- GPIO & sensor integration (PIR, light sensing, buzzer control)
+- Processing radar visualizers & digital logic circuits
+- PlatformIO & embedded C/C++ firmware
+- MCU-to-Linux communication & RPC interfaces
+- HTTP APIs & browser dashboards
 - Hardware/software debugging
-
-This is an area I plan to continue developing alongside software engineering.
 
 ---
 
@@ -206,22 +187,11 @@ This is an area I plan to continue developing alongside software engineering.
 
 ### CodeSprout Beginner's Hackathon
 
-I have experience organizing and coordinating the **CodeSprout Beginner's Hackathon**, including project submissions, judge assignment, and event coordination.
-
-This experience helped me develop skills beyond programming:
-
-- Technical coordination
-- Event organization
-- Team communication
-- Project evaluation workflows
-- Working with participants and judges
-- Managing a large number of submissions
+I organized and coordinated the **CodeSprout Beginner's Hackathon**, managing project submissions, judge assignments, participant support, and overall event evaluation workflows.
 
 ### Hackster & Hardware Innovation
 
-I've also been developing and documenting hardware/software projects for the **Hackster.io community**, particularly around the Arduino UNO Q and App Lab ecosystem.
-
-I'm interested in hackathons not only as competitions, but as opportunities to **learn, build under constraints, document work, and share practical projects with other developers and makers**.
+I actively document hardware/software projects for the **Hackster.io community**, particularly around the Arduino UNO Q and App Lab ecosystem, focusing on rapid prototyping under constraints.
 
 ---
 
@@ -229,30 +199,15 @@ I'm interested in hackathons not only as competitions, but as opportunities to *
 
 > **Code. Build. Learn. Repeat.**
 
-I believe that a good project is not defined only by how much code it contains.
-
 A good project should:
 
-- Solve a real problem
-- Be understandable and maintainable
-- Be tested through actual use
-- Improve through iteration
-- Be documented clearly
-- Teach the developer something new
+- Solve a real institutional or personal problem
+- Be understandable, modular, and maintainable
+- Be tested through actual deployment and use
+- Improve through iteration and user feedback
+- Be clearly documented
 
 > **Success is shipping, not endlessly perfecting.**
-
----
-
-## What I Bring
-
-- **Practical problem solving** — I focus on turning ideas into working systems.
-- **Fast iteration** — I prototype, test, debug, and improve continuously.
-- **AI-assisted productivity** — I use modern AI tools while keeping technical understanding at the center.
-- **Software + hardware curiosity** — I'm comfortable exploring beyond traditional web development.
-- **Documentation mindset** — I like recording architecture, phases, problems, and solutions.
-- **Team coordination** — I've worked on hackathon organization and collaborative technical activities.
-- **Continuous learning** — I'm actively expanding from frontend development into backend, AI, embedded systems, and full-stack development.
 
 ---
 
@@ -260,16 +215,12 @@ A good project should:
 
 I'm currently focused on:
 
-- Strengthening **JavaScript and TypeScript**
-- Building stronger **backend development** skills
-- Learning more about **Node.js and databases**
-- Developing **AI-powered applications**
-- Exploring **local LLMs and AI infrastructure**
-- Improving **embedded systems** knowledge
-- Building with **Arduino UNO Q**
-- Creating more complete **full-stack projects**
-- Improving software architecture and documentation
-- Preparing for **freelance, internship, and entry-level development opportunities**
+- Building the **CTU SAO Management Platform & RAG AI Chatbot**
+- Deepening expertise in **RAG architectures, vector search, and local LLM deployment**
+- Enhancing **Node.js, Express, and backend database architecture**
+- Mastering AI-assisted development workflows (**Cursor, Antigravity**)
+- Expanding **Arduino UNO Q, PlatformIO, and embedded systems prototyping**
+- Preparing for **freelance opportunities, internships, and full-stack/AI developer roles**
 
 ---
 
@@ -301,25 +252,10 @@ I'm currently focused on:
 
 I'm interested in:
 
-- **Freelance projects** — Web development and UI implementation
-- **Internships** — Frontend, backend, full-stack, AI, or related development roles
-- **Collaborations** — Open-source projects, hackathons, and technical experiments
-- **Hardware projects** — Embedded systems, Arduino, and software/hardware integration
-- **AI projects** — Practical AI applications and developer tools
-
----
-
-## Beyond Code
-
-Technology is only one part of what I enjoy.
-
-I'm also interested in:
-
-- Technology entrepreneurship
-- Project and event coordination
-- Learning how products are designed and built
-- Exploring the intersection of software, hardware, and AI
-- Turning small ideas into useful prototypes
+- **Full-Stack & AI Projects** — On-premises AI, RAG integrations, and custom web applications
+- **Freelance Work** — Web platforms, dashboard UIs, and API integrations
+- **Internships** — Software engineering, AI development, or embedded/full-stack roles
+- **Hardware & Embedded Collaborations** — IoT, microcontrollers, and software/hardware integration
 
 ---
 
@@ -369,9 +305,3 @@ If you find my projects useful or interesting, you can support my work through B
 **If you find something interesting here, feel free to explore the repositories, star a project, or reach out.**
 
 </div>
-'''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path}")
-print(f"Lines: {len(readme.splitlines())}")
