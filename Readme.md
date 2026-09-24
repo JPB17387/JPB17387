@@ -16,7 +16,11 @@ I build practical software and hardware projects that combine **web development,
 
 ## About Me
 
+<<<<<<< HEAD
 I'm a **Computer Technology student at Cebu Technological University** and a junior developer passionate about building practical, well-structured technology to solve real institutional and community problems.
+=======
+I'm a **Computer Technology student and junior developer** at **Cebu Technological University Dumanjug Extension Campus** and former **Computer System Servicing Student** at **Dumanjug National High School** interested in building useful, well-structured technology rather than simply writing code for the sake of it.
+>>>>>>> fcae90b941de2b9e6c7c2a1ab93205d2b20110bc
 
 My development journey started with web development and has expanded into **AI-assisted software engineering, Retrieval-Augmented Generation (RAG) systems, local LLM hosting, embedded hardware prototyping, and automated management platforms**.
 
@@ -304,4 +308,10 @@ If you find my projects useful or interesting, you can support my work through B
 
 **If you find something interesting here, feel free to explore the repositories, star a project, or reach out.**
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+
+
+>>>>>>> fcae90b941de2b9e6c7c2a1ab93205d2b20110bc
