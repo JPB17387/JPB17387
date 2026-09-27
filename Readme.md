@@ -304,10 +304,6 @@ If you find my projects useful or interesting, you can support my work through B
 
 **If you find something interesting here, feel free to explore the repositories, star a project, or reach out.**
 
-<<<<<<< HEAD
-</div>
-=======
 </div>
 
 
->>>>>>> fcae90b941de2b9e6c7c2a1ab93205d2b20110bc
